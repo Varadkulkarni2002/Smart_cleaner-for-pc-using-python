@@ -20,14 +20,6 @@
 
 ---
 
-## 🚀 How to Download and Run
-
-### 1. Clone the Repository
-Open your terminal or command prompt and run:
-```bash
-git clone [https://github.com/Varadkulkarni2002/Smart_cleaner-for-pc-using-python.git](https://github.com/Varadkulkarni2002/Smart_cleaner-for-pc-using-python.git)
-cd Smart_cleaner-for-pc-using-python
-
 
 
 ✅ What To Do
@@ -44,4 +36,18 @@ Do not force-delete in-use files: If an app warns you a file is currently open (
 
 Do not ignore system warnings: Bypassing the system warning (⚠️) for .dll, .sys, or .kext files can lead to a broken operating system.
 
+
+
 ⚠️ ALERT: Please double-check if all the files you delete are no longer required. Even when the app has safety blocks in place, careless deletion can cause irreversible data loss. Proceed with caution!
+
+
+## 🚀 How to Download and Run
+
+### 1. Clone the Repository
+Open your terminal or command prompt and run:
+```bash
+git clone [https://github.com/Varadkulkarni2002/Smart_cleaner-for-pc-using-python.git](https://github.com/Varadkulkarni2002/Smart_cleaner-for-pc-using-python.git)
+cd Smart_cleaner-for-pc-using-python
+
+
+
