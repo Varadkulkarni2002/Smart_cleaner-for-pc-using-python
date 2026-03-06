@@ -23,5 +23,5 @@ A fast, lag-free, and cross-platform system cleaner built with Python and a mode
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/SmartCleaner.git](https://github.com/yourusername/SmartCleaner.git)
+   git clone [https://github.com//SmartCleaner.git](https://github.com/Varadkulkarni2002/Smart_cleaner-for-pc-using-python.git)
    cd SmartCleaner
